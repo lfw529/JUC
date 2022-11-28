@@ -1,4 +1,4 @@
-package com.lfw.concurrent;
+package com.lfw.concurrent.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
